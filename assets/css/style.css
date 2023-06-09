@@ -1,3 +1,8 @@
+.navbar-brand img {
+  width: 60% !important;
+}
+
 .offcanvas {
   background-color: #212529 !important;
-}/*# sourceMappingURL=style.css.map */
+}
+/*# sourceMappingURL=style.css.map */

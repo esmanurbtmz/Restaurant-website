@@ -1,3 +1,9 @@
+$background : #212529;
+.navbar-brand{
+    img{
+        width: 60% !important;
+    }
+}
 .offcanvas{
-    background-color: #212529 !important;
+    background-color: $background !important;
 }
